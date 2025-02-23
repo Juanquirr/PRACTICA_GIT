@@ -1,1 +1,1 @@
-Git es un sistema de control de versiones ideado por Linus Torvalds.
+te capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
